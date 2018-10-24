@@ -1,0 +1,2 @@
+# MongoDBMlabCRUD
+This app is based on MongoDB and MLab CRUD application.In this app i have have login register operation and talk with Database which is created in Mongo Shell and simultaneously MLab.I used express,passport,passport-google-oauth,passwordHash,express-session,node-cron,mongoose,bootsrap,ejs,body-parser,nocache,HTTPS,HTTPSKEYS,Schedules of HTTPS,Winston and Socket.So this app is totally contains server side module and technology.
